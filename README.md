@@ -6,4 +6,4 @@ A collection of writeups for CTF challenges I've solved.
 
 | Competition | Date | Place | Writeups |
 |---|---|---|---|
-| PSRU Cyber Hackathon #3 | March 2026 | 🥉 3rd | [5 writeups](./2026/psru-hackathon-3/) |
+| PSRU Cyber Hackathon #3 | March 2026 | 3rd | [5 writeups](./2026/psru-hackathon-3/) |

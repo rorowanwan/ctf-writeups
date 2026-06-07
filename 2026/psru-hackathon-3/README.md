@@ -1,8 +1,7 @@
 # PSRU Cyber Hackathon #3
 
 **Date:** March 2026
-**Location:** Phitsanulok, Thailand
-**Place:** 🥉 3rd
+**Place:** 3rd
 
 ## Challenges
 

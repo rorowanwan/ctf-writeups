@@ -11,7 +11,7 @@
 > **Architecture spec:**
 > - 4 registers: R1, R2, R3, R4 (all initialized to 0)
 > - Memory: 256 slots (addresses 0–255, all initialized to 0)
-> - ⚠️ Memory wrap rule: if an instruction references an address above 255, wrap around (e.g. address 256 = slot 0, address 260 = slot 4)
+> - Memory wrap rule: if an instruction references an address above 255, wrap around (e.g. address 256 = slot 0, address 260 = slot 4)
 
 ## Solution
 
